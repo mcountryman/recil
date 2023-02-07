@@ -1,0 +1,22 @@
+[package]
+name = "recil"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+default = ["std"]
+std = []
+
+[dependencies]
+paste = "1.0.11"
+bitflags = "1.3.2"
+no-panic = "0.1.17"
+
+[dependencies.scroll]
+version = "0.11.0"
+features = ["derive"]
+
+[dependencies.goblin]
+version = "0.6.0"
+features = ["pe32", "pe64"]
+default-features = false
