@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygtHCfmOOkt0Up+0iiKD/S4hnwSg1X1WdCUOUt658uK8NU3eRAJnLBBC6F2j5mAdcNu9QwAcSChCy1XIaEAXbA==",
+  "success": true,
+  "projectFilePath": "/Users/marvin/dev/recil/tests/generate/tools.csproj",
+  "expectedPackageFiles": [
+    "/Users/marvin/.nuget/packages/dnlib/3.6.0/dnlib.3.6.0.nupkg.sha512",
+    "/Users/marvin/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/marvin/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.2/microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
+    "/Users/marvin/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/marvin/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/Users/marvin/.nuget/packages/tommy/3.1.2/tommy.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
